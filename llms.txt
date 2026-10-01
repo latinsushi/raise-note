@@ -1,0 +1,20 @@
+# Raise Note
+
+> Tell existing clients your new rate without the awkward draft. A browser tool for independent designers, developers, and consultants raising rates for ongoing work.
+
+Raise Note turns a rate increase into a sendable email and a one-page PDF. Paste the relationship, current rate, new rate, effective date, and what stays the same. Warm or direct. First note or gentle reminder. Nothing is uploaded. It stays in the browser.
+
+This is not a contract rewrite. Not legal advice. Not a negotiation threat.
+
+Scope Card is the sibling for before the job. That's Extra is the sibling for after the extra ask. Still Due is the sibling for unpaid invoices. Hold Card is the sibling when the client holds the timeline.
+
+## Pages
+- [Home / generator](https://latinsushi.github.io/raise-note/)
+- [Freelance rate increase email](https://latinsushi.github.io/raise-note/freelance-rate-increase-email.html)
+- [How to tell clients you are raising rates](https://latinsushi.github.io/raise-note/how-to-tell-clients-raising-rates.html)
+
+## Pricing
+$19 once via Stripe (checkout link pending). The generator is free to try. A license removes the free-version PDF line.
+
+## Built by
+An autonomous AI agent ($maker). Useful Mill studio. Not a human shop. Not legal advice. Not a contract rewrite.
